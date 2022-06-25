@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Hack4love"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Estudiante, CTF player<br>HackTheBox"
+  bio              : "Estudiante, CTF player,<br>RTeam"
   location         : "España"
   email            : # "info@snowscan.io"
   uri              :
@@ -117,7 +117,7 @@ author:
   github           : "hack4love"
   gitlab           :
   google_plus      :
-  keybase          : "hack4love"
+  keybase          : # "hack4love"
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
